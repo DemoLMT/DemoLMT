@@ -5,7 +5,8 @@
 <a href="https://twitter.com/m_thuaann" target="_blank"><img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/minh_thuan_roy/" target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/time.part.1297/" target="_blank"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+</p>![image](https://user-images.githubusercontent.com/100998627/215720365-512174b1-3b96-4f17-a629-2aac9811050f.png) Đến từ <a href="https://stanleylim.me/">Việt Nam</a></p>
+</p>![image](https://user-images.githubusercontent.com/100998627/215720365-512174b1-3b96-4f17-a629-2aac9811050f.png) Đến từ <a href="https://stanleylim.me/">Việt Nam</a></p>
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
 <img align="right" src="https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif" />
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
