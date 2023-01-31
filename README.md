@@ -8,7 +8,7 @@
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
 <img align="right" src="https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif" />
 <ul>
-<li><img src="https://user-images.githubusercontent.com/100998627/215721155-44510172-d846-4a1a-8d44-a72bb7483028.png" alt="vue" width="20" height="20"> I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li><img src="https://user-images.githubusercontent.com/100998627/215721155-44510172-d846-4a1a-8d44-a72bb7483028.png" alt="vue" width="10" height="10"> Đến từ Sơn La Provice</a>.</li>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
