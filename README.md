@@ -9,7 +9,7 @@
 </p>![image](https://user-images.githubusercontent.com/100998627/215720365-512174b1-3b96-4f17-a629-2aac9811050f.png) Đến từ <a href="https://stanleylim.me/">Việt Nam</a></p>
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
 <img align="right" src="https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif" />
-<p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
+<p>![image](https://user-images.githubusercontent.com/100998627/215721155-44510172-d846-4a1a-8d44-a72bb7483028.png)Đến từ Việt Nam</p>
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
 <p align="left">
     <p>Tài liệu lập trình C, bài tập, đề thi...</p>
