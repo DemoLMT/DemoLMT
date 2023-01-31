@@ -19,7 +19,7 @@
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
 <p align="left">
    <li>Tài liệu lập trình C, bài tập, đề thi...  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30" /></a>
-   <li>Thành thạo từ Cơ bản đến nâng cao C++ <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c" width="60" height="30" /></a>  
+   <li>Thành thạo từ Cơ bản đến nâng cao C++ <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c" width="90" height="30" /></a>  
    <li>Lập trình hướng đối tượng bằng C++ <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="c" width="150" height="30" /><li>  
   
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="vue" width="90" height="30" />
