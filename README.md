@@ -8,7 +8,7 @@
 </p>
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
 <img align="right" src="https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif" />
-
+<p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
 <p align="left">
     <p>Tài liệu lập trình C, bài tập, đề thi...</p>
