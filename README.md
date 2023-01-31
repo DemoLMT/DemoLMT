@@ -7,8 +7,7 @@
 <a href="https://www.facebook.com/time.part.1297/" target="_blank"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
-<img align="right" src="![e8d5a3b3a383211eb74d02a26115defa](https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif)
-" />
+<img align="right" src="https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif" />
 
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
 <p align="left">
