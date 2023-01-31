@@ -1,4 +1,4 @@
-![Header](./[Your header image])
+![Header](./[Navy White Modern Technology Service LinkedIn Banner.png])
 <h2>Hey 👋, Tớ tên là <a href="https://stanleylim.me/">Thuận</a></h2>
 <p>Hiện tại tớ đang là Sinh viên năm 3 ở 1 Trường Đại học...</p>
 <p align="left">
