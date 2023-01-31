@@ -1,3 +1,4 @@
+![Header](./[Your header image])
 <h2>Hey 👋, Tớ tên là <a href="https://stanleylim.me/">Thuận</a></h2>
 <p>Hiện tại tớ đang là Sinh viên năm 3 ở 1 Trường Đại học...</p>
 <p align="left">
@@ -25,6 +26,7 @@
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
 <p align="left">
+    <p>Tài liệu lập trình C, bài tập, đề thi...</p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
  <p align="left">
