@@ -7,7 +7,7 @@
 <a href="https://www.facebook.com/time.part.1297/" target="_blank"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
-<img align="middle" src="https://pin.it/2X9Aqbn" />
+<img align="right" src="https://pin.it/2X9Aqbn" />
 
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
 <p align="left">
