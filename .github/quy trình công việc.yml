@@ -1,37 +1,37 @@
-tên: Xây dựng README
+name: Build README
 
-trên:
-  xô:
-  quy trình làm việc_dispatch:
-  lịch trình:
+on:
+  push:
+  workflow_dispatch:
+  schedule:
     - cron: '0 0 * * *'
+  
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-công việc:
-  xây dựng:
-    chạy trên: Ubuntu-mới nhất
+    strategy:
+      matrix:
+        node-version: [12.x]
 
-    chiến lược:
-      ma trận:
-        phiên bản nút: [12.x]
-
-    các bước:
-      - tên: Thanh toán repo
-        sử dụng: hành động/thanh toán@v2
-      - tên: Nút cài đặt ${{ matrix.node-version }}
-        sử dụng: hành động/thiết lập-nút@v1
-        với:
-          phiên bản nút: ${{ matrix.node-version }}
-      - tên: Cài đặt phụ thuộc
-        chạy: npm ci
-      - tên: Xây dựng README
-        chạy: |-
-          bắt đầu npm
-          mèo README.md
-      - tên: Cam kết với sự khác biệt
-        chạy: |-
-          git thêm .
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Setup Node ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install dependencies
+        run: npm ci
+      - name: Build README
+        run: |-
+          npm start
+          cat README.md
+      - name: Commit with diff
+        run: |-
+          git add .
           git diff
           git config --global user.email "readme-bot@stanleylim.me"
-          git config --global user.name "Bot ReadMe"
-          git commit -m ":sparkles: feat(README.md): README đã cập nhật" || echo "Không phát hiện thay đổi"
-          đẩy git
+          git config --global user.name "ReadMe Bot"
+          git commit -m ":sparkles: feat(README.md): Updated README" || echo "No changes detected"
+          git push
