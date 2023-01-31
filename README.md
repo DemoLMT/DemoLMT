@@ -18,7 +18,7 @@
 </ul>
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
 <p align="left">
-<li><p>Tài liệu lập trình C, bài tập, đề thi...  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30" /><p>
+<li>Tài liệu lập trình C, bài tập, đề thi...  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" width="60" height="30" /></a>.</li>
     
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
  
