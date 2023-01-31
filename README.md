@@ -1,8 +1,8 @@
 <h2>Hey 👋, Tớ tên là <a href="https://stanleylim.me/">Thuận</a></h2>
 <p>Hiện tại tớ đang là Sinh viên năm 3 ở 1 Trường Đại học...</p>
 <p align="left">
-<a href="https://twitter.com/m_thuaann" target="_blank"><img height="30" src="https://raw.githubusercontent.com/DemoLMT/DemoLMT/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/minh_thuan_roy/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/m_thuaann" target="_blank"><img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/minh_thuan_roy/" target="_blank"><img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/time.part.1297/" target="_blank"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
