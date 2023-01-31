@@ -7,6 +7,15 @@
 <a href="https://www.facebook.com/time.part.1297/" target="_blank"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p>🍌 Giới thiệu qua về bản thân Tớ 🍌</p>
 <img align="right" src="https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif" />
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
+<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
+<li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
+<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>🎉 Fun Fact: 我也会讲中文。</li>
+</ul>
 <h2><img src="https://user-images.githubusercontent.com/100998627/215721155-44510172-d846-4a1a-8d44-a72bb7483028.png" alt="vue" width="20" height="20" /> Đến từ Sơn La Provice</h2>
 
 <h2>🚀 Các mảng mà tớ có thể giúp đỡ cho bạn</h2>
