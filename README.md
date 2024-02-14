@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/100998627/215716770-85877084-6dd2-4ec1-8d7e-b87ba2c5690d.png)
 <h2>Hey 👋, Tớ tên là <a href="https://www.facebook.com/time.part.1297/">Thuận</a></h2>
-<p>Hiện tại tớ đang là Sinh viên năm 3 ở 1 Trường Đại học...</p>
+<p>Hiện tại tớ đang là Sinh viên IT ở 1 Trường Đại học...</p>
 <p> Liên hệ tớ dưới đây nhé 👇</p>
 <p align="left">
 <a href="https://twitter.com/m_thuaann" target="_blank"><img height="30" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
