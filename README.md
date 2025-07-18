@@ -8,9 +8,16 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/100998627/215719447-657b6397-bcc2-460c-a92c-8e9e7b0b68c9.gif" />
 <ul>
-<li><img src="https://user-images.githubusercontent.com/100998627/215721155-44510172-d846-4a1a-8d44-a72bb7483028.png" alt="vue" width="20" height="20"> Đến từ Sơn La Provice</a>.</li>
+## 🧑‍💻 About Me
+- 🌱 Currently learning: TypeScript & Machine Learning
+- 💼 Work: Freelance Front-end Developer
+- 🏠 Location: Hồ Chí Minh, Việt Nam
+- 📫 Email: TwoSecond@example.com
+- 🥇 Achievements: Google Developer Scholarship 2025
+- 🔭 Goals: Xuất bản dự án open-source đầu tiên
 
-
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="vue" width="90" height="30" />
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="vue" width="180" height="30" />
-<img src="https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white" alt="vue" width="120" height="30" />
+## 🛠️ Skills
+- Programming Languages: JavaScript, Python, C++
+- Frameworks: React, Next.js
+- Tools: Git, Docker, Linux
+- Soft skills: Teamwork, Problem-solving
